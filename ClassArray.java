@@ -5,7 +5,7 @@
 import java.util.*;
 /**
  *
- * @author elsya pertemuan 5
+ * @author elsya 
  * 
  */
 public class ClassArray {

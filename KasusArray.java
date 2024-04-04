@@ -5,7 +5,7 @@
 import java.io.*;
 /**
  *
- * @author elsya pertemuan 5
+ * @author elsya 
  * 
  */
 public class KasusArray {

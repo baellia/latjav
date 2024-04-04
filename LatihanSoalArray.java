@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author elsya pertemuan 5
+ * @author elsya
  * 
  */
 public class LatihanSoalArray {
